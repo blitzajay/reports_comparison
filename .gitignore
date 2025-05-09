@@ -1,0 +1,18 @@
+# Ignore report files
+*.csv
+*.xls
+*.xlsx
+*.ods
+
+# Ignore old scripts
+compare_reports.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# macOS system files
+.DS_Store
